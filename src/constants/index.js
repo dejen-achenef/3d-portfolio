@@ -227,7 +227,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I can't say enough good things about Jeff. He's a true team player who always puts the needs of the project first. If you're looking for a software engineer who can deliver results, Jeff is your guy.",
+      "I can't say enough good things about dejen. He's a true team player who always puts the needs of the project first. If you're looking for a software engineer who can deliver results, Jeff is your guy.",
     name: "Halley Bennett",
     designation: "",
     company: "Hack Reactor",
@@ -235,7 +235,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Jeff is an incredible problem solver. Whenever we ran into a roadblock on our project, he was always able to come up with creative solutions that kept us moving forward.",
+      "dejen is an incredible problem solver. Whenever we ran into a roadblock on our project, he was always able to come up with creative solutions that kept us moving forward.",
     name: "Yishak Wesego",
     designation: "",
     company: "Hack Reactor",
@@ -243,7 +243,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've worked with a lot of engineers over the years, and Jeff is one of the best. His technical skills are top-notch, but what really sets him apart is his ability to communicate complex ideas in a way that everyone on the team can understand.",
+      "I've worked with a lot of engineers over the years, and dejen is one of the best. His technical skills are top-notch, but what really sets him apart is his ability to communicate complex ideas in a way that everyone on the team can understand.",
     name: "Megan Stewart",
     designation: "",
     company: "Hack Reactor",
@@ -371,7 +371,7 @@ const projects = [
       },
     ],
     image: smartrep,
-    source_code_link: "https://github.com/jeffjiang13/smartrep-ai",
+    source_code_link: "https://github.com/jeffjiang13/smartrepe-ai",
     liveUrl: "https://jj-smartrep.vercel.app/",
   },
   {
@@ -393,7 +393,7 @@ const projects = [
       },
     ],
     image: notable,
-    source_code_link: "https://github.com/jeffjiang13/notable",
+    source_code_link: "https://github.com/jeffjiang13/notablee",
     liveUrl: "https://jj-notable.up.railway.app/",
   },
   {
@@ -415,7 +415,7 @@ const projects = [
       },
     ],
     image: zapflow,
-    source_code_link: "https://github.com/jeffjiang13/saas-automation",
+    source_code_link: "https://github.com/jeffjiang13/saas-automatioen",
     liveUrl: "https://jj-zapflow.vercel.app/",
   },
   {
@@ -437,7 +437,7 @@ const projects = [
       },
     ],
     image: beeclone,
-    source_code_link: "https://github.com/jeffjiang13/saas-newsletter",
+    source_code_link: "https://github.com/jeffjiang13/saas-newsletteer",
     liveUrl: "https://jj-newsletter.vercel.app/",
   },
   {
@@ -459,7 +459,7 @@ const projects = [
       },
     ],
     image: matrixai,
-    source_code_link: "https://github.com/jeffjiang13/MatrixAI",
+    source_code_link: "https://github.com/jeffjiang13/MatrixAIe",
     liveUrl: "https://jj-nextgen-ai.vercel.app/",
   },
   {
@@ -481,7 +481,7 @@ const projects = [
       },
     ],
     image: linktree,
-    source_code_link: "https://github.com/jeffjiang13/LinkTree",
+    source_code_link: "https://github.com/jeffjiang13/LinekTree",
     liveUrl: "https://jj-linktri.vercel.app/",
   },
   {
@@ -503,7 +503,7 @@ const projects = [
       },
     ],
     image: ig,
-    source_code_link: "https://github.com/jeffjiang13/IG-2.0",
+    source_code_link: "https://github.com/jeffjiang13/IG-2.e0",
     liveUrl: "https://quicktele.netlify.app/",
   },
   {
@@ -525,7 +525,7 @@ const projects = [
       },
     ],
     image: tiktok,
-    source_code_link: "https://github.com/jeffjiang13/tiktok",
+    source_code_link: "https://github.com/jeffjiang13/tikteok",
     liveUrl: "https://jj-tiktok.vercel.app/",
   },
   {
@@ -547,7 +547,7 @@ const projects = [
       },
     ],
     image: portfolio17,
-    source_code_link: "https://github.com/jeffjiang13/tailortech",
+    source_code_link: "https://github.com/jeffjiang13/tailoertech",
     liveUrl: "https://jj-tailortech.vercel.app/",
   },
   {
@@ -569,7 +569,7 @@ const projects = [
       },
     ],
     image: portfolio16,
-    source_code_link: "https://github.com/jeffjiang13",
+    source_code_link: "https://github.com/jeffjianeg13",
     liveUrl: "https://chiquechickshop.com/",
   },
   {
@@ -591,7 +591,7 @@ const projects = [
       },
     ],
     image: portfolio15,
-    source_code_link: "https://github.com/jeffjiang13",
+    source_code_link: "https://github.com/jeffejiang13",
     liveUrl: "https://madamcoon.com/",
   },
   {
@@ -613,7 +613,7 @@ const projects = [
       },
     ],
     image: movie,
-    source_code_link: "https://github.com/jeffjiang13/movie-app",
+    source_code_link: "https://github.com/jeffjiang1e3/movie-app",
     liveUrl: "https://jj-movie-app.netlify.app/",
   },
   {
@@ -635,7 +635,7 @@ const projects = [
       },
     ],
     image: shop,
-    source_code_link: "https://github.com/jeffjiang13/ecommerce_sanity",
+    source_code_link: "https://github.com/jeffjiang13/eecommerce_sanity",
     liveUrl: "https://jj-ecomstore.vercel.app/",
   },
   {
@@ -657,7 +657,7 @@ const projects = [
       },
     ],
     image: youtube,
-    source_code_link: "https://github.com/jeffjiang13/youtube-clone",
+    source_code_link: "https://github.com/jeffjiang13/yeoutube-clone",
     liveUrl: "https://jj-youtube-clone.netlify.app/",
   },
 ];
